@@ -1,0 +1,14 @@
+WTForms==2.3.3
+Flask==2.0.1
+Flask_SocketIO==5.1.0
+Flask_Bcrypt==0.7.1
+Flask_SQLAlchemy==2.5.1
+secrets==1.0.2
+itsdangerous==2.0.1
+Flask_Login==0.5.0
+Flask_Mail==0.9.1
+Flask_WTF==0.15.1
+Flask-Admin
+Flask-SSLify
+Pillow==8.2.0
+email-validator
